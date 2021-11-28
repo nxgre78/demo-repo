@@ -6,6 +6,4 @@ More testing.
 
 # Local Development
 
-1. Open index.html in you rbrowser.
-
-
+1. Open index.html in you browser.
